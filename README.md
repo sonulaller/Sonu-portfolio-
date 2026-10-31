@@ -26,3 +26,6 @@ I am learning Artificial Intelligence and Web Development.
 
 [My LinkedIn](https://www.linkedin.com/)
 
+## My Image
+
+![Sonu Profile](https://placehold.co/400x250/png?text=Sonu)
